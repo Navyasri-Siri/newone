@@ -1,2 +1,2 @@
 # newone
-practice one
+practice one for git commands
